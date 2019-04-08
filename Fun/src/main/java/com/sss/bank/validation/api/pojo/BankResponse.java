@@ -6,7 +6,6 @@ import java.io.Serializable;
 
 
 
-
 public class BankResponse implements Serializable{
 	
 	/**
